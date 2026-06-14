@@ -6,7 +6,8 @@ Website showcase katak eksotis dan ikan laut hias, dilengkapi blog artikel eduka
 
 ## Live Demo
 
-Vercel: _akan diisi setelah deploy_
+- **Vercel:** https://dunia-anura-design.vercel.app
+- **Repo:** https://github.com/Swordekel/dunia-anura-design
 
 ## Tech Stack
 
