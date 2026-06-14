@@ -51,3 +51,5 @@ check-missing-info.js
 replace-author.js
 replace.py
 reset-views.js
+
+.vercel
