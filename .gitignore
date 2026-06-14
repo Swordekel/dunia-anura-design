@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+.vite/
+
+# Vercel
+.vercel
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Internal docs (in Bahasa Indonesia, not for public repo)
+ARTICLE_UPDATE_SUMMARY.md
+BULK_UPDATE_INFO.js
+CHANGELOG_MEDIA_GALLERY.md
+COMPLETE_ARTICLE_INFO.md
+DOKUMENTASI_PROTEKSI_KONTEN.md
+GANTI_AUTHOR.md
+LOCAL_VIDEO_GUIDE.md
+PANDUAN_LENGKAPI_INFO.md
+QUICK_GUIDE_MEDIA.md
+QUICK_PROTECTION_GUIDE.md
+TUTORIAL_TAMBAH_MEDIA.md
+VIEW_COUNTER_README.md
+article-info-data.txt
+check-missing-info.js
+replace-author.js
+replace.py
+reset-views.js
